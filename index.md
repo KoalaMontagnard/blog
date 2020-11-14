@@ -1,8 +1,8 @@
-## Bienvenue
+## Welcome 
 
-### Samedi 14 novembre 2020 - Ouverture rapide d'un terminal
+### Saturday, November 14, 2020 - Quick opening of a shell
 
-Ouvrir un terminal à partir d'une fenêtre windows : 
+Open a shell from a windows window : 
 
 Hold Shift + Right Click the folder you want it opened on, and click "open command window here". That should do the trick!
 OR
